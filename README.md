@@ -5,3 +5,8 @@
 Sou profissional da área de Dados, com experiência em análise de dados, visualização e soluções baseadas em tecnologia. Atualmente, trabalho como Assistente de TI na Junto Seguros, no time de Dados e IA.
 </p>
 
+<img src="(https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)" />
+<img src="(https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)" />
+<a href="[https://www.linkedin.com/in/eloise-monteiro/](https://www.linkedin.com/in/eloisemf/)" target="_blank">
+  <img src="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" >
+</a>
