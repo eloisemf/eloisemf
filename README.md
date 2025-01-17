@@ -1,6 +1,6 @@
-### Olá, meu nome é Eloise! 👋
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eloisemf&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" alt="languages graph" min-width="400px" max-width="400px" width="400px" align="right">
+
+### Olá, meu nome é Eloise! 👋
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Eloise%20Monteiro&color=440e9c&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
 
