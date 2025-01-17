@@ -10,12 +10,12 @@ Sou profissional da área de Dados, com experiência em análise de dados, visua
 
 ---
 
-### Ferramentas e Tecnologias
+### :hammer_and_wrench:
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 
 ---
 
-### Vamos nos conectar! 🌐
+### 🌐
 <a href="https://www.linkedin.com/in/eloisemf/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
