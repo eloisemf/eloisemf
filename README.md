@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eloisemf&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" alt="languages graph" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eloisemf&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=true&order=2" alt="languages graph" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Olá, meu nome é Eloise! 👋
 
@@ -7,6 +7,7 @@
 <p align="left"> 
 Sou profissional da área de Dados, com experiência em análise de dados, visualização e soluções baseadas em tecnologia. Atualmente, trabalho como Assistente de TI na Junto Seguros, no time de Dados e IA.
 </p>
+
 ---
 
 :hammer_and_wrench: **Ferramentas**
