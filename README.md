@@ -19,3 +19,7 @@ Sou profissional da área de Dados, com experiência em análise de dados, visua
 <a href="https://www.linkedin.com/in/eloisemf/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+<img src="https://raw.githubusercontent.com/eloisemf/eloisemf/output/snake.svg" alt="Snake animation" />
+
+###
