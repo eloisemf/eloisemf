@@ -1,7 +1,7 @@
 ### Olá, meu nome é Eloise! 👋
 
-<div min-width="400px" max-width="400px" width="400px align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eloisemf&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="right" style="width:400px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eloisemf&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" alt="languages graph" />
 </div>
 
 ###
@@ -14,7 +14,8 @@ Sou profissional da área de Dados, com experiência em análise de dados, visua
 
 ---
 
-:hammer_and_wrench:<div align="left">
+:hammer_and_wrench: Ferramentas
+<div align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
@@ -28,11 +29,10 @@ Sou profissional da área de Dados, com experiência em análise de dados, visua
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
-
-
 ---
 
-🌐 <a href="https://www.linkedin.com/in/eloisemf/" target="_blank">
+🌐 Redes
+<a href="https://www.linkedin.com/in/eloisemf/" target="_blank">
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo"  />
 </a>
