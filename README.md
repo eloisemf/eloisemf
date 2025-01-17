@@ -1,20 +1,12 @@
 ### Olá, meu nome é Eloise! 👋
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Texto à esquerda -->
-  <div style="flex: 1;">
-    <img src="https://img.shields.io/static/v1?label=Overview&message=Eloise%20Monteiro&color=440e9c&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
-    <p align="left"> 
-      Sou profissional da área de Dados, com experiência em análise de dados, visualização e soluções baseadas em tecnologia. Atualmente, trabalho como Assistente de TI na Junto Seguros, no time de Dados e IA.
-    </p>
-  </div>
-  
-  <!-- Imagem à direita -->
-  <div style="min-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eloisemf&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" alt="languages graph" />
-  </div>
-</div>
+<img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador](https://github-readme-stats.vercel.app/api/top-langs?username=eloisemf&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2)" alt="languages graph" min-width="400px" max-width="400px" width="400px" align="right">
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=Eloise%20Monteiro&color=440e9c&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
+
+<p align="left"> 
+Sou profissional da área de Dados, com experiência em análise de dados, visualização e soluções baseadas em tecnologia. Atualmente, trabalho como Assistente de TI na Junto Seguros, no time de Dados e IA.
+</p>
 ---
 
 :hammer_and_wrench: **Ferramentas**
